@@ -2,7 +2,7 @@
 <h1>I'm <i>Santhosh Sivan A</i> <img src="programmer.png" alt="PNG" height="40px" width="60px"></h1>
 <h3>I'm a <i><b>Passionate Learner,</b></i> Learning <i><b>Full-stack Web Development</b></i> <img src="mycode3.png" alt="PNG" width="20px"> I'm an <i><b>IT Aspirant</b></i> and a <i><b>Frontend Web Development Enthusiast</b></i> <img src="mycode2.png" alt="PNG" width="25px"></h3>
 
-<img src="https://img.shields.io/badge/AUTHOR-SANTHOSH%20SIVAN%20A-crimson" alt="BADGE">
+<img src="https://img.shields.io/github/followers/LearnAtExperience?label=FOLLOWERS" alt="BADGE"> <img src="https://img.shields.io/badge/AUTHOR-SANTHOSH%20SIVAN%20A-crimson" alt="BADGE"> <img alt="Website" src="https://img.shields.io/website?down_color=%23808080&down_message=OFFLINE&label=WEBSITE&up_color=%23f39c12&up_message=ONLINE&url=https%3A%2F%2Fportfolio-learnatexperience.netlify.app">
 
 <h2>About</h2>
 <p>I'm a <b>B.Sc Computer Science</b> Graduate, passed out in July 2021. Studied in A.M.Jain College of Arts and Science, Chennai. <br> </p>
@@ -24,15 +24,19 @@
 <img src="vb6.png" alt="Image" title="Visual Basics 6.0" width="50px" align="left">
 <img src="vscode.png" alt="Image" title="Visual Studio Code" width="50px" align="left">
 
-<br /><br /><br /><br /><br /><br /><br /><br />
-<p align="center"><b>LETS CONNECT</b></p>
+<br /><br /><br />
 
-<p align="center">
+<h2>GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=LearnAtExperience&show_icons=true&theme=tokyonight" alt="STATS">
+
+<h2>Lets Connect</h2>
 <a href="mailto:santhoshsivan18g207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/santhosh-sivan-a-95a21a212"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br />
+<a href="https://www.linkedin.com/in/santhosh-sivan-a-95a21a212"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<p>
 <img src="https://img.shields.io/badge/TELEGRAM-%40ssa07072000-%231f8fc1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"><br />
 <img src="https://img.shields.io/badge/Discord-%40Santhosh%20Sivan%20A%236112-%235462EA?style=for-the-badge&logo=discord&logoColor=white" alt="Telegram">
 </p>
+
 
 
 
