@@ -26,7 +26,7 @@
 <img src="vscode.png" alt="Image" title="Visual Studio Code" width="50px" height="50px" align="left">
 </p>
 
-<br /><br /><br /><br />
+<br /><br /><br />
 
 <h2><img src="stats.png" width="18px" alt="SIDES"> GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=LearnAtExperience&show_icons=true&theme=tokyonight" alt="STATS">
