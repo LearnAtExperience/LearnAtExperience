@@ -15,14 +15,14 @@
 </ul>
 
 <h2>Languages and IDE</h2>
-<img src="html5.png" alt="Image" title="HTML5" width="60px" align="left">
-<img src="css3.png" alt="Image" title="CSS3" width="55px" align="left">
-<img src="javascript1.jpg" alt="Image" title="JavaScript" width="50px" align="left">
-<img src="bootstrap.png" alt="Image" title="Bootstrap" width="53px" align="left">
-<img src="react2.png" alt="Image" title="React" width="53px" align="left">
-<img src="python.png" alt="Image" title="Python" width="55px" align="left">
-<img src="vb6.png" alt="Image" title="Visual Basics 6.0" width="60px" align="left">
-<img src="vscode.png" alt="Image" title="Visual Studio Code" width="60px" align="left">
+<img src="html5.png" alt="Image" title="HTML5" width="50px" align="left">
+<img src="css3.png" alt="Image" title="CSS3" width="45px" align="left">
+<img src="javascript1.jpg" alt="Image" title="JavaScript" width="40px" align="left">
+<img src="bootstrap.png" alt="Image" title="Bootstrap" width="43px" align="left">
+<img src="react2.png" alt="Image" title="React" width="43px" align="left">
+<img src="python.png" alt="Image" title="Python" width="45px" align="left">
+<img src="vb6.png" alt="Image" title="Visual Basics 6.0" width="50px" align="left">
+<img src="vscode.png" alt="Image" title="Visual Studio Code" width="50px" align="left">
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 <p align="center"><b>LETS CONNECT</b></p>
