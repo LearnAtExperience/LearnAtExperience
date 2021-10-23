@@ -24,13 +24,14 @@
 <img src="vb6.png" alt="Image" title="Visual Basics 6.0" width="60px" align="left">
 <img src="vscode.png" alt="Image" title="Visual Studio Code" width="60px" align="left">
 
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 <p align="center"><b>LETS CONNECT</b></p>
 
 <p align="center">
 <a href="mailto:santhoshsivan18g207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/santhosh-sivan-a-95a21a212"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://support.discord.com/hc/en-us/profiles/1521318652761"><img src="https://img.shields.io/badge/Discord-5462EA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.linkedin.com/in/santhosh-sivan-a-95a21a212"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br />
+<img src="https://img.shields.io/badge/TELEGRAM-%40ssa07072000-%231f8fc1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"><br />
+<img src="https://img.shields.io/badge/Discord-%40Santhosh%20Sivan%20A%236112-%235462EA?style=for-the-badge&logo=discord&logoColor=white" alt="Telegram">
 </p>
 
 
