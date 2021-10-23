@@ -29,7 +29,7 @@
 <br /><br /><br /><br />
 
 <h2><img src="stats.png" width="18px" alt="SIDES"> GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=LearnAtExperience&show_icons=true&theme=tokyonight" alt="STATS">
+<img src="https://github-stats.vercel.app/api?username=LearnAtExperience&show_icons=true&theme=radical" alt="STATS">
 
 <h2><img src="handshake.gif" width="25px" alt="SIDES"> Lets Connect</h2>
 <a href="mailto:santhoshsivan18g207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
