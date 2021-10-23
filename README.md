@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/github/followers/LearnAtExperience?label=FOLLOWERS" alt="BADGE"> <img src="https://img.shields.io/badge/AUTHOR-SANTHOSH%20SIVAN%20A-crimson" alt="BADGE"> <img alt="Website" src="https://img.shields.io/website?down_color=%23808080&down_message=OFFLINE&label=WEBSITE&up_color=%23f39c12&up_message=ONLINE&url=https%3A%2F%2Fportfolio-learnatexperience.netlify.app">
 
-<h2>About</h2>
+<h2><img src="list.png" width="18px" alt="SIDES"> About</h2>
 <p>I'm a <b>B.Sc Computer Science</b> Graduate, passed out in July 2021. Studied in A.M.Jain College of Arts and Science, Chennai. <br> </p>
 <ul>
   <li>🌱 Currently Learning <b><em>Full-stack Web Development</em></b></li>
@@ -14,7 +14,7 @@
   <li>⌛ <b><em>Communication</em></b> and <b><em>Leadership</em></b> are my attributes</li>
 </ul>
 
-<h2>Languages and IDE</h2>
+<h2><img src="development.png" width="22px" alt="SIDES"> Languages and IDE</h2>
 <img src="html5.png" alt="Image" title="HTML5" width="50px" align="left">
 <img src="css3.png" alt="Image" title="CSS3" width="50px" align="left">
 <img src="javascript1.jpg" alt="Image" title="JavaScript" width="50px" align="left">
@@ -26,10 +26,10 @@
 
 <br /><br /><br />
 
-<h2>GitHub Stats</h2>
+<h2><img src="stats.png" width="18px" alt="SIDES"> GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=LearnAtExperience&show_icons=true&theme=tokyonight" alt="STATS">
 
-<h2>Lets Connect</h2>
+<h2><img src="handshake.gif" width="25px" alt="SIDES"> Lets Connect</h2>
 <a href="mailto:santhoshsivan18g207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 <a href="https://www.linkedin.com/in/santhosh-sivan-a-95a21a212"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <p>
