@@ -15,13 +15,13 @@
 </ul>
 
 <h2><img src="development.png" width="22px" alt="SIDES"> Languages and IDE</h2>
-<img src="html5.png" alt="Image" title="HTML5" width="30px" align="left">
-<img src="css3.png" alt="Image" title="CSS3" width="30px" align="left">
-<img src="javascript1.jpg" alt="Image" title="JavaScript" width="30px" align="left">
-<img src="bootstrap.png" alt="Image" title="Bootstrap" width="30px" align="left">
-<img src="react2.png" alt="Image" title="React" width="30px" align="left">
-<img src="python.png" alt="Image" title="Python" width="30px" align="left">
-<img src="vb6.png" alt="Image" title="Visual Basics 6.0" width="30px" align="left">
+<img src="html5.png" alt="Image" title="HTML5" width="28px" align="left">
+<img src="css3.png" alt="Image" title="CSS3" width="28px" align="left">
+<img src="javascript1.jpg" alt="Image" title="JavaScript" width="28px" align="left">
+<img src="bootstrap.png" alt="Image" title="Bootstrap" width="28px" align="left">
+<img src="react2.png" alt="Image" title="React" width="28px" align="left">
+<img src="python.png" alt="Image" title="Python" width="28px" align="left">
+<img src="vb6.png" alt="Image" title="Visual Basics 6.0" width="28px" align="left">
 <img src="vscode.png" alt="Image" title="Visual Studio Code" width="30px" align="left">
 
 <br /><br /><br />
