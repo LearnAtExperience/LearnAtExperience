@@ -23,7 +23,7 @@
 <img src="react2.png" alt="Image" title="React" width="26px" align="left">
 <img src="python.png" alt="Image" title="Python" width="26px" align="left">
 <img src="vb6.png" alt="Image" title="Visual Basics 6.0" width="26px" align="left">
-<img src="vscode.png" alt="Image" title="Visual Studio Code" width="26px" align="left">
+<img src="vscode.png" alt="Image" title="Visual Studio Code" width="36px" align="left">
 </p>
 
 <br /><br /><br />
