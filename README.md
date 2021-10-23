@@ -21,7 +21,7 @@
 <img src="bootstrap.png" alt="Image" title="Bootstrap" width="28px" align="left">
 <img src="react2.png" alt="Image" title="React" width="28px" align="left">
 <img src="python.png" alt="Image" title="Python" width="28px" align="left">
-<img src="vb6.png" alt="Image" title="Visual Basics 6.0" width="28px" align="left">
+<img src="vb6.png" alt="Image" title="Visual Basics 6.0" width="30px" align="left">
 <img src="vscode.png" alt="Image" title="Visual Studio Code" width="30px" align="left">
 
 <br /><br /><br />
