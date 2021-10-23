@@ -24,7 +24,7 @@
 <img src="vb6.png" alt="Image" title="Visual Basics 6.0" width="60px" align="left">
 <img src="vscode.png" alt="Image" title="Visual Studio Code" width="60px" align="left">
 
-<br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 <p align="center"><b>LETS CONNECT</b></p>
 
 <p align="center">
