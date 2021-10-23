@@ -15,7 +15,7 @@
 </ul>
 
 <h2><img src="development.png" width="22px" alt="SIDES"> Languages and IDE</h2>
-<p>
+<p width="100%">
 <img src="html5.png" alt="Image" title="HTML5" width="26px" align="left">
 <img src="css3.png" alt="Image" title="CSS3" width="26px" align="left">
 <img src="javascript1.jpg" alt="Image" title="JavaScript" width="26px" align="left">
