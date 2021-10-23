@@ -27,8 +27,11 @@
 <br /><br /><br /><br />
 <p align="center"><b>LETS CONNECT</b></p>
 
-<a href="mailto:santhoshsivan18g207@gmail.com">GMAIL</a>
-
+<p align="center">
+<a href="mailto:santhoshsivan18g207@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/santhosh-sivan-a-95a21a212"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://support.discord.com/hc/en-us/profiles/1521318652761"><img src="https://img.shields.io/badge/Discord-5462EA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
 
 
 
